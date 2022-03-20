@@ -6,7 +6,7 @@ DES_Initial_Exploration.ipynb
 -Some exploratory analysis of the DES data, with some basic cuts for stars.  References DES_test.csv.
 
 DES_test.csv
--Relatively simple and small .csv of DES objects, for exploratory analysis purposes
+-Relatively simple and small .csv of DES objects from public DESAccess, for exploratory analysis purposes
 
 DES_query.txt
 -text file with query for what was used in full analysis in paper (not what was used to generate DES_test)
