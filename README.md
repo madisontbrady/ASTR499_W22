@@ -9,4 +9,4 @@ DES_test.csv
 -Relatively simple and small .csv of DES objects, for exploratory analysis purposes
 
 DES_query.txt
--text file with query for what was used in full analysis in paper
+-text file with query for what was used in full analysis in paper (not what was used to generate DES_test)
